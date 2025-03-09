@@ -4,8 +4,11 @@ A text-based Hangman game developed using object-oriented Java.
 
 # Object Orientated Analysis and Design
 Encapsulation and information hiding – each class has its own attributes and methods. Some of these attributes and methods may have a private modifier. 
+
 Inheritance – extending the Exception class to create a user defined exception for the Hangman game.
+
 Polymorphism – overriding the “toString” method provided by the Exception class
+
 Arrays – used to hold the pool of potential words,  the hangman and used to print the board. 
 
 
