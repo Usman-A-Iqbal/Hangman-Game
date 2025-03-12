@@ -2,7 +2,7 @@
 A text-based Hangman game developed using object-oriented Java. 
 
 
-# Object Orientated Analysis and Design
+# Object-Orientated Analysis and Design
 Encapsulation and information hiding – each class has its own attributes and methods. Some of these attributes and methods may have a private modifier. 
 
 Inheritance – extending the Exception class to create a user defined exception for the Hangman game.
