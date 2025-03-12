@@ -19,5 +19,4 @@ Player class calls upon the user defined exception when user input is not within
 The Game class contains a player attribute.
 The Main method then calls the play game function
 
-
-![image](https://github.com/user-attachments/assets/7cbc742d-fab8-43f0-becb-f498a8673cc5)
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/9f6ffb91-fcfd-4fd0-960a-fd1feb9f00d3" />
